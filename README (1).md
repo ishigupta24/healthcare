@@ -5,11 +5,15 @@ MIST 4610 Group Project 1
 39217 Group 7
 
 ## Team Members
-Dylan McMorrow [@DylanMcMorrow](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
-Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
-Jack Drummond [@JackDrummond](https://github.com/jdrum7/MISTproject)
-Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md)
-Miral Lakhani [@MiralLakhani](https://github.com/mirLakhani/healthcare1)
+1. Dylan McMorrow [@DylanMcMorrow](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
+   
+2. Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
+   
+3. Jack Drummond [@JackDrummond](https://github.com/jdrum7/MISTproject)
+   
+4. Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md)
+   
+5. Miral Lakhani [@MiralLakhani](https://github.com/mirLakhani/healthcare1)
 
 ## Problem Description
 Our primary goal is to create a relational database that significantly improves the efficiency and quality of a medical center's operations. The central entity in our database model is the "Visit Entity," representing each medical patient's visit. This "Visit Entity" is intricately linked with other key components, including the "Patient," "Visit Record," "Physician," "Room," and "Billing" entities. Our focus is on accurately modeling these relationships, generating realistic sample data, and populating these entities with relevant attributes.
