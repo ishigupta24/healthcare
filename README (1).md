@@ -126,7 +126,7 @@ Query 8 lists the five suppliers that have supplied the most medications, and th
 <img width="622" alt="Screen Shot 2023-11-03 at 6 08 39 PM" src="https://github.com/ishigupta24/healthcare/assets/148798025/94cc62be-46b4-4c18-b487-b99f05b7585b">
 
 
-Query 8 provides a rundown of the suppliers that have supplied the highest number of medications. This is important because it can help managers identify which suppliers the clinic should consider negotiating better terms with. 
+Query 8 also offers a valuable overview of the suppliers that have consistently provided the highest number of medications, allowing managers to make informed decisions regarding supplier relationships, when to negotiate better terms, and to enhance the clinic's overall medication inventory management.
 
 Query 9:
 
