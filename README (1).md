@@ -114,7 +114,7 @@ Query 6 permits clinic managers to identify the number of visits a patient has s
 
 Query 7:
 
-Query 7displays the name (last name and first name concatenated) of the physician and the amount of billing he has generated. Order results in a descending value of dollars’ worth of billing.
+Query 7 displays the name (last name and first name concatenated) of the physician and the amount of billing he has generated. Order results in a descending value of dollars’ worth of billing.
 <img width="617" alt="Screen Shot 2023-11-03 at 6 08 20 PM" src="https://github.com/ishigupta24/healthcare/assets/148798025/8ca9109f-d8c1-4e5b-bc78-161b9f5d0039">
 
 
@@ -122,7 +122,7 @@ Query 7 grants the clinic the capability to find the total billing amount each d
 
 Query 8:
 
-Query 8lists the five suppliers that have supplied the most medications, and the number of medications have they have supplied.
+Query 8 lists the five suppliers that have supplied the most medications, and the number of medications have they have supplied.
 <img width="622" alt="Screen Shot 2023-11-03 at 6 08 39 PM" src="https://github.com/ishigupta24/healthcare/assets/148798025/94cc62be-46b4-4c18-b487-b99f05b7585b">
 
 
