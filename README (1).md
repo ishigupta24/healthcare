@@ -78,7 +78,7 @@ Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
 <img width="619" alt="Screen Shot 2023-11-03 at 6 05 24 PM" src="https://github.com/ishigupta24/healthcare/assets/148798025/af7304f6-25e1-4b6e-971f-6179e9e2dd61">
 
 
-This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
+This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This provides information that will be useful when they are scheduling the physicians for the upcoming weeks. The insights we derive from this query will help managers fine tune each physician’s schedule which is important for the overall success of the medical center.
 
 Query 3:
 
